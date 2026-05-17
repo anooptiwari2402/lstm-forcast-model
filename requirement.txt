@@ -4,3 +4,6 @@ torch
 sklearn
 matplotlib
 ta
+lightning
+pytorch-lightning
+pytorch-forecasting
